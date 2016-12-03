@@ -15,9 +15,9 @@ Happy coding.
 1 str
 2 fin (not available in interpreter mode)
 3 .
-4 \+
-5 \-
-6 \*
+4 +
+5 -
+6 *
 7 = (comparison)
 8 dup
 9 drop
