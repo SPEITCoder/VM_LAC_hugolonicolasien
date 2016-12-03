@@ -10,57 +10,33 @@ Happy coding.
 
 ## Function list VERSION 1.1
 
-<code>
+```
 0 lit
-
 1 str
-
 2 fin
-
 3 .
-
 4 \+
-
 5 \-
-
 6 \*
-
 7 = (comparison)
-
 8 dup
-
 9 drop
-
 10 swap
-
 11 count
-
 12 type
-
 13 if
-
 14 else
-
 15 then
-
 20 && (optional functions from now on)
-
 21 ||
-
 22 !
-
 23 inferior or equal
-
 24 defer
-
 25 recurse
-
 26 '
-
 27 is
-
 28 calculate
-</code>
+```
 
 ## Follower
 
