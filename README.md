@@ -10,57 +10,57 @@ Happy coding.
 
 ## Function list VERSION 1.1
 
+<code>
+0 lit
 
-0. lit
+1 str
 
-1. str
+2 fin
 
-2. fin
+3 .
 
-3. .
+4 \+
 
-4. \+
+5 \-
 
-5. \-
+6 \*
 
-6. \*
+7 = (comparison)
 
-7. = (comparison)
+8 dup
 
-8. dup
+9 drop
 
-9. drop
+10 swap
 
-10. swap
+11 count
 
-11. count
+12 type
 
-12. type
+13 if
 
-13. if
+14 else
 
-13. else
+15 then
 
-14. then
+20 && (optional functions from now on)
 
-15. && (optional functions from now on)
+21 ||
 
-16. ||
+22 !
 
-17. !
+23 inferior or equal
 
-18. inferior or equal
+24 defer
 
-19. defer
+25 recurse
 
-20. recurse
+26 '
 
-21. '
+27 is
 
-22. is
-
-23. calculate
-
+28 calculate
+</code>
 
 ## Follower
 
