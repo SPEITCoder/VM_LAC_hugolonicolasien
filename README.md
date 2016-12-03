@@ -11,9 +11,9 @@ Happy coding.
 ## Function list VERSION 1.2
 
 ```
-0 lit
+0 lit (not available in interpreter mode)
 1 str
-2 fin
+2 fin (not available in interpreter mode)
 3 .
 4 \+
 5 \-
@@ -24,9 +24,9 @@ Happy coding.
 10 swap
 11 count
 12 type
-13 if
-14 else
-15 then
+13 if (not available in interpreter mode)
+14 else (not available in interpreter mode)
+15 then (not available in interpreter mode)
 20 && (optional functions from now on)
 21 ||
 22 !
