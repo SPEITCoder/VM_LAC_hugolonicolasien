@@ -40,5 +40,4 @@ Happy coding.
 
 ## Follower
 
-+ Hugo (joined 3 Dec)
 + Nicolas (joined 3 Dec)
