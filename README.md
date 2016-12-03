@@ -8,7 +8,7 @@ Simply pull a request to add your name in the **FOLLOWER** section to comply wit
 
 Happy coding.
 
-## Function list VERSION 1.1
+## Function list VERSION 1.2
 
 ```
 0 lit
@@ -36,6 +36,7 @@ Happy coding.
 26 '
 27 is
 28 calculate
+29 catenate
 ```
 
 ## Follower
