@@ -12,7 +12,7 @@ Happy coding.
 
 ```
 0 lit (not available in interpreter mode)
-1 str
+1 str (not available in interpreter mode)
 2 fin (not available in interpreter mode)
 3 .
 4 +
@@ -32,7 +32,7 @@ Happy coding.
 22 !
 23 inferior or equal
 24 defer
-25 recurse
+
 26 '
 27 is
 28 calculate
