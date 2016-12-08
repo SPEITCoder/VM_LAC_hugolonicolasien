@@ -8,7 +8,7 @@ Simply pull a request to add your name in the **FOLLOWER** section to comply wit
 
 Happy coding.
 
-## Function list VERSION 1.2
+## Function list VERSION 1.3
 
 ```
 0 lit (not available in interpreter mode)
