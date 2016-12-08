@@ -38,6 +38,15 @@ Happy coding.
 28 calculate
 29 catenate
 ```
+## Compiled file specifications
+
++ We use a binary file to store the VM array
++ The first two elements of VM array are reserved for general usage.
++ VM[0] stores the Processor Order version, currently 1.3, so VM[0] = 1003
++ VM[1] stores the entry point of the function.
++ VM array is stored in a binary file casting to type int32_t (on macOS, ubuntu on linux it is has the same effect as int)
++ **CAUTION** Most of the test result of the binary file configuration turns out good, but test on Windows using gcc compiler can result to error.
+
 
 ## Follower
 
