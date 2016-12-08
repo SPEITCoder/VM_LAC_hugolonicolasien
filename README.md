@@ -42,11 +42,12 @@ Happy coding.
 
 + We use a binary file to store the VM array
 + The first two elements of VM array are reserved for general usage.
-+ VM[0] stores the Processor Order version, currently 1.3, so VM[0] = 1003
++ VM[0] stores the Processor Order version, currently 1.3, so VM[0] = 1003.
++ Incompatibility version info would very likely be added to this file in a later time. So it is suggested to check the version in runtime.
 + VM[1] stores the entry point of the function.
-+ VM array is stored in a binary file casting to type int32_t (on macOS, ubuntu on linux it is has the same effect as int)
++ VM array is stored in a binary file with each element being casted to type int32_t (on macOS, ubuntu on linux it is has the same effect as int), which is defined in stdint.h
 + **CAUTION** Most of the test result of the binary file configuration turns out good, but test on Windows using gcc compiler can result to error.
-
++ Please issue error reports if such practice doesn't turn out good on your machine.
 
 ## Follower
 
