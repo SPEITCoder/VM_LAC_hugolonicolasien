@@ -8,7 +8,7 @@ Simply pull a request to add your name in the **FOLLOWER** section to comply wit
 
 Happy coding.
 
-## Function list VERSION 1.3
+## Function list VERSION 1.4
 
 ```
 0 lit (not available in interpreter mode)
@@ -37,6 +37,7 @@ Happy coding.
 27 is
 28 calculate
 29 catenate
+30 cr (generate a string of \n)
 ```
 ## Compiled file specifications
 
@@ -51,4 +52,4 @@ Happy coding.
 
 ## Follower
 
-+ Nicolas (joined 3 Dec)
++ Nicolas (joined 3 Dec), current version 1.3
