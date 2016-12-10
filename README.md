@@ -8,7 +8,7 @@ Simply pull a request to add your name in the **FOLLOWER** section to comply wit
 
 Happy coding.
 
-## Function list VERSION 1.4
+## Function list VERSION 1.5
 Compatible with prior to 1.2 (inclusive).
 ```
 0 lit (not available in interpreter mode)
@@ -26,13 +26,14 @@ Compatible with prior to 1.2 (inclusive).
 12 type
 13 if (not available in interpreter mode)
 14 else (not available in interpreter mode)
-15 then (not available in interpreter mode)
+15 then (not available in interpreter mode, no processor implementation)
+26 / (division)
 20 && (optional functions from now on)
 21 ||
 22 !
 23 inferior or equal
 24 defer
-
+25 recurse (need no processor implementation)
 26 '
 27 is
 28 calculate
