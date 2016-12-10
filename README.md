@@ -27,7 +27,7 @@ Compatible with prior to 1.2 (inclusive).
 13 if (not available in interpreter mode)
 14 else (not available in interpreter mode)
 15 then (not available in interpreter mode, no processor implementation)
-26 / (division)
+16 / (division)
 20 && (optional functions from now on)
 21 ||
 22 !
