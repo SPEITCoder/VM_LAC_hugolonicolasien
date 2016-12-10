@@ -40,6 +40,10 @@ Compatible with prior to 1.2 (inclusive).
 29 catenate
 30 cr (generate a string of \n to put in stack)
 ```
+### Remark
++ Plaese give function <code>then</code> a postion in VM
+
+
 ## Compiled file specifications
 
 + We use a binary file to store the VM array
@@ -54,3 +58,4 @@ Compatible with prior to 1.2 (inclusive).
 ## Follower
 
 + Nicolas (joined 3 Dec), current version 1.3
++ Hugo
